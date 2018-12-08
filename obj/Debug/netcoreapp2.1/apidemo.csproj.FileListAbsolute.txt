@@ -1,0 +1,14 @@
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/bin/Debug/netcoreapp2.1/apidemo.deps.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/bin/Debug/netcoreapp2.1/apidemo.runtimeconfig.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/bin/Debug/netcoreapp2.1/apidemo.runtimeconfig.dev.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/bin/Debug/netcoreapp2.1/apidemo.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/bin/Debug/netcoreapp2.1/apidemo.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.csprojAssemblyReference.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.csproj.CoreCompileInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.RazorAssemblyInfo.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.RazorAssemblyInfo.cs
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.AssemblyInfoInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.AssemblyInfo.cs
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.RazorTargetAssemblyInfo.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/apidemo/obj/Debug/netcoreapp2.1/apidemo.pdb
